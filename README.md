@@ -3,9 +3,6 @@
 **Tagline**: "Experience the Future of Banking, Fast and Secure."
 
 ---
-
-## Company Description:
-
 **VeloxPay** is your innovative partner in the digital banking landscape, designed for the modern individual who values speed, security, and simplicity. The name **“Velox”**—meaning **fast** in Latin—perfectly encapsulates our commitment to providing swift financial solutions, while **“Pay”** emphasizes our core functionality in facilitating seamless transactions. 
 
 At VeloxPay, we understand that time is of the essence in today's fast-paced world. Our platform is built to ensure that you can manage your finances effortlessly, with instant access to your accounts and immediate transaction processing. Whether you’re sending money to friends, paying bills, or managing your savings, VeloxPay guarantees that you’ll do so in just a few taps.
